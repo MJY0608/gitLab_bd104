@@ -5,3 +5,7 @@ after reset HEAD^ soft, I add this line
 
 
 1111111111
+
+
+
+4444444
