@@ -1,0 +1,7 @@
+222
+Lab :update file
+Lab : reset HEAD^
+after reset HEAD^ soft, I add this line
+
+
+1111111111
